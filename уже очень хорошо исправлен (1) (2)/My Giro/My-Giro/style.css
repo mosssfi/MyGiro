@@ -90,7 +90,7 @@ body {
 
 .background1 {
   background: linear-gradient(rgba(0, 0, 0, 0.31) 0%, #0000009f),
-    url("../img/banner.jpg") no-repeat center top / cover;
+    url("img/banner.jpg") no-repeat center top / cover;
   width: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -465,21 +465,21 @@ body {
 }
 
 .bg-cons1 {
-  background: #fff url("../img/cons/1.jpg") no-repeat center top / cover;
+  background: #fff url("img/cons/1.jpg") no-repeat center top / cover;
   display: flex;
   height: 140px;
   width: 140px;
 }
 
 .bg-cons2 {
-  background: #fff url("../img/cons/2.jpg") no-repeat center top / cover;
+  background: #fff url("img/cons/2.jpg") no-repeat center top / cover;
   display: flex;
   height: 140px;
   width: 140px;
 }
 
 .bg-cons3 {
-  background: #fff url("../img/cons/3.jpg") no-repeat center top / cover;
+  background: #fff url("img/cons/3.jpg") no-repeat center top / cover;
   display: flex;
   height: 140px;
   width: 140px;
@@ -554,7 +554,7 @@ body {
 
 .bg1 {
   background: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.582)),
-    #fff url("../img/polin/1.jpg") no-repeat center top / cover;
+    #fff url("img/polin/1.jpg") no-repeat center top / cover;
   display: flex;
   height: 200px;
   width: 200px;
@@ -562,7 +562,7 @@ body {
 
 .bg2 {
   background: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.582)),
-    #fff url("../img/polin/2.jpg") no-repeat center top / cover;
+    #fff url("img/polin/2.jpg") no-repeat center top / cover;
   margin-left: 66px;
   display: flex;
   height: 200px;
@@ -571,7 +571,7 @@ body {
 
 .bg3 {
   background: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.582)),
-    #fff url("../img/polin/3.jpg") no-repeat center top / cover;
+    #fff url("img/polin/3.jpg") no-repeat center top / cover;
   margin-left: 66px;
   display: flex;
   height: 200px;
@@ -580,7 +580,7 @@ body {
 
 .bg4 {
   background: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.582)),
-    #fff url("../img/polin/4.jpg") no-repeat center top / cover;
+    #fff url("img/polin/4.jpg") no-repeat center top / cover;
   margin-left: 66px;
   display: flex;
   height: 200px;
